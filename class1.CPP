@@ -35,7 +35,7 @@ int main(){
     c1.variant="2 seater";
     c1.fuel_type="petrol";
     c1.year=2023;
-    c1.price=3.5 cr;
+    c1.price=3.5;
     c1.start();
     c1.park();
     c1.stop();
